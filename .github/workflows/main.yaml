@@ -20,7 +20,7 @@ jobs:
           user: cfi2017
           template: classic
           base: activity, repositories
-          config_animated: yes
+          config_animations: yes
           config_timezone: America/Los_Angeles
           plugin_activity: yes
           plugin_activity_days: 14
