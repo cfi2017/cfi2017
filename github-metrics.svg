@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            904 Commits
+                            905 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -130,14 +130,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="115.66611966553151" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="115.66611966553151" y="0" width="107.50630804284854" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="223.17242770838007" y="0" width="84.22951724019504" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="307.4019449485751" y="0" width="79.72404526121362" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="387.12599020978865" y="0" width="28.930106563262342" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="416.056096773051" y="0" width="28.220665051779076" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="444.2767618248301" y="0" width="11.451778218765394" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="455.7285400435955" y="0" width="4.271459956404474" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="115.63199151951349" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="115.63199151951349" y="0" width="107.47458750973689" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="223.10657902925038" y="0" width="84.20466469675608" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="307.31124372600647" y="0" width="79.83624850057187" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="387.1474922265783" y="0" width="28.921570520867537" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="416.06906274744586" y="0" width="28.21233833536118" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="444.28140108280706" y="0" width="11.448399286712116" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="455.7298003695191" y="0" width="4.270199630480826" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -213,6 +213,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#d0a9f9c</div>
+                                        <div class="message">update armor and api</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">cfi2017/loadout.report</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#56e29e5</div>
                                         <div class="message">start splitting archive into more usable thing</div>
                                     </div>
@@ -235,26 +255,6 @@
                                     <div class="comment">Rust analyzer recently released #159, which adds this exact feature: 
 This would be tremendously helpful, not just for the purpose of the size hints themselves but also for learning more about the internal data structure created by rust. 
 As you said, you can generally estimate sizes pretty well as is, but having these types of hints can significantly help people new to the language as well :)</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">cfi2017/advent-of-code</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1c34104</div>
-                                        <div class="message">advent of code days</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
