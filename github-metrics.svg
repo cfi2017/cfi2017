@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1045 Commits
+                            1046 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -130,14 +130,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="115.66765250859048" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="115.66765250859048" y="0" width="106.11851545418217" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="221.78616796277265" y="0" width="85.19300806686543" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="306.97917602963804" y="0" width="72.52591760729558" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="379.5050936369336" y="0" width="31.534220554966552" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="411.0393141919002" y="0" width="27.22966146022285" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="438.26897565212306" y="0" width="11.555208050188053" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="449.8241837023111" y="0" width="10.175816297688884" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="115.64798974407836" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="115.64798974407836" y="0" width="106.1004759821734" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="221.74846572625177" y="0" width="85.17852579788732" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="306.9269915241391" y="0" width="72.5135886630488" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="379.44058018718783" y="0" width="31.607057009584608" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="411.0476371967724" y="0" width="27.225032591136078" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="438.2726697879085" y="0" width="11.553243738387378" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="449.8259135262959" y="0" width="10.174086473704042" height="8" fill="#41b883"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -199,6 +199,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">cfi2017/sgbf</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#cb22243</div>
+                                        <div class="message">update paths filter and implement display for Uid</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -351,26 +371,6 @@
                                     <div class="commit">
                                         <div class="sha">#1e8776f</div>
                                         <div class="message">improve error logging</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">cfi2017/sgbf</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7539dfb</div>
-                                        <div class="message">use alternative sentry reporting url</div>
                                     </div>
                                 </div>
                             </section>
